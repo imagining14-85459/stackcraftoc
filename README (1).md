@@ -9,10 +9,10 @@
 
 ## The real user
 
-The user is an affordable housing development director or city analyst trying to stack fragmented funding layers for working-class immigrant families. Today, they manually manage static Excel models that completely isolate non-English speaking family members from the underwriting math. When interest rates bounce or new annual state income limits drop, their fragile spreadsheets break and force them to restart from scratch.
+The user is an affordable housing development director or city analyst trying to stack fragmented funding layers for working-class immigrant families. When affordable housing professionals use the term "collective family architecture" in working-class immigrant communities, they are describing how families circumvent institutional borrowing limits. Standard underwriting typically looks at a single borrower or domestic couple. However, in immigrant and AAPI hubs like Westminster or Garden Grove, households frequently pool income from multi-generational co-signers (grandparents, adult siblings, aunts/uncles) to meet down payment targets or income baseline qualifications. 
 
 **Before:** Advisors manually cross-reference static tables across disconnected state and federal datasets, typing single-borrower parameters into isolated English spreadsheets that lock out the family circle.
-**After:** Advisors switch on a bilingual "Co-Authoring Mode" where multi-generational families actively input alternative equity assets while a color-shifting slider instantly projects macroeconomic rate shocks.
+**After:** Advisors switch on a bilingual "Co-Authoring Mode" where multi-generational families actively input their alternative equity assets while a color-shifting slider instantly projects macroeconomic rate shocks.
 
 ## What we built
 
